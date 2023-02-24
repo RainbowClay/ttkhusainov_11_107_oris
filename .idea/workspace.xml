@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="082241e3-0213-4a99-ba78-7ac38873fdec" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/GameLogic/Board.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameLogic/Cell.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameLogic/GameStatus.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GameLogic/GameStatus.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameLogic/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GameLogic/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameLogic/PlayerStatus.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GameLogic/PlayerStatus.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameLogic/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GameLogic/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TCPClient/GameProvider.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TCPClient/GameProvider.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TCPProtocol.sln" beforeDir="false" afterPath="$PROJECT_DIR$/TCPProtocol.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TCPServer/ConnectedClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TCPServer/ConnectedClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TCPServer/GameProvider.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TCPServer/XServer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TCPServer/XServer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XProtocol/XPacketType.cs" beforeDir="false" afterPath="$PROJECT_DIR$/XProtocol/XPacketType.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XProtocol/XPacketTypeManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/XProtocol/XPacketTypeManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XProtocol/XPackets/XPacketMove.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XProtocol/XPackets/XPacketMoveResult.cs" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MCYttGQn0jVDnS1UMFAK1DYeN2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="082241e3-0213-4a99-ba78-7ac38873fdec" name="Changes" comment="" />
+      <created>1677273253723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677273253723</updated>
+      <workItem from="1677273255066" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
